@@ -1,0 +1,74 @@
+[
+  {
+    "sector": "S01",
+    "reference": 55,
+    "predictions": 49,
+    "matched": 49,
+    "unmatched_predictions": 0,
+    "missed": 6,
+    "uncertain": 1,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.8909090909090909
+  },
+  {
+    "sector": "S02",
+    "reference": 51,
+    "predictions": 37,
+    "matched": 37,
+    "unmatched_predictions": 0,
+    "missed": 14,
+    "uncertain": 1,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.7254901960784313
+  },
+  {
+    "sector": "S03",
+    "reference": 41,
+    "predictions": 31,
+    "matched": 31,
+    "unmatched_predictions": 0,
+    "missed": 10,
+    "uncertain": 0,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.7560975609756098
+  },
+  {
+    "sector": "S04",
+    "reference": 25,
+    "predictions": 24,
+    "matched": 24,
+    "unmatched_predictions": 0,
+    "missed": 1,
+    "uncertain": 0,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.96
+  },
+  {
+    "sector": "S05",
+    "reference": 57,
+    "predictions": 49,
+    "matched": 49,
+    "unmatched_predictions": 0,
+    "missed": 8,
+    "uncertain": 0,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.8596491228070176
+  },
+  {
+    "sector": "S06",
+    "reference": 57,
+    "predictions": 39,
+    "matched": 39,
+    "unmatched_predictions": 0,
+    "missed": 18,
+    "uncertain": 0,
+    "ignored_predictions": 0,
+    "precision": 1.0,
+    "recall": 0.6842105263157895
+  }
+]

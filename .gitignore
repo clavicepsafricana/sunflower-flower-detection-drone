@@ -1,0 +1,20 @@
+# Entornos y archivos generados
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Datos de trabajo: incorporar muestras deliberadamente cuando corresponda
+data/raw/
+data/private/
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.gpkg
+*.qgz
+*.qgs
+*.aux.xml
+*.gpkg-shm
+*.gpkg-wal

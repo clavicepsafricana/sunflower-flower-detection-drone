@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#101d29"/>
+<g font-family="Arial, sans-serif" fill="#edf4f7">
+<text x="45" y="52" font-size="27">Flores visibles: revisión de seis sectores</text>
+<text x="45" y="86" font-size="16">229 / 286 confirmadas detectadas · 80,1 % · tolerancia 15 cm</text>
+<text x="45" y="147" font-size="18">S01</text>
+<rect x="110" y="125" width="490" height="30" rx="3" fill="#36c6a0"/>
+<rect x="600" y="125" width="60" height="30" fill="#ffbb66"/>
+<text x="710" y="147" font-size="17">49/55 · 89.1%</text>
+<text x="45" y="200" font-size="18">S02</text>
+<rect x="110" y="178" width="370" height="30" rx="3" fill="#36c6a0"/>
+<rect x="480" y="178" width="140" height="30" fill="#ffbb66"/>
+<text x="710" y="200" font-size="17">37/51 · 72.5%</text>
+<text x="45" y="253" font-size="18">S03</text>
+<rect x="110" y="231" width="310" height="30" rx="3" fill="#36c6a0"/>
+<rect x="420" y="231" width="100" height="30" fill="#ffbb66"/>
+<text x="710" y="253" font-size="17">31/41 · 75.6%</text>
+<text x="45" y="306" font-size="18">S04</text>
+<rect x="110" y="284" width="240" height="30" rx="3" fill="#36c6a0"/>
+<rect x="350" y="284" width="10" height="30" fill="#ffbb66"/>
+<text x="710" y="306" font-size="17">24/25 · 96.0%</text>
+<text x="45" y="359" font-size="18">S05</text>
+<rect x="110" y="337" width="490" height="30" rx="3" fill="#36c6a0"/>
+<rect x="600" y="337" width="80" height="30" fill="#ffbb66"/>
+<text x="710" y="359" font-size="17">49/57 · 86.0%</text>
+<text x="45" y="412" font-size="18">S06</text>
+<rect x="110" y="390" width="390" height="30" rx="3" fill="#36c6a0"/>
+<rect x="500" y="390" width="180" height="30" fill="#ffbb66"/>
+<text x="710" y="412" font-size="17">39/57 · 68.4%</text>
+<rect x="45" y="463" width="14" height="14" fill="#36c6a0"/>
+<text x="68" y="476" font-size="16">Detectadas</text>
+<rect x="230" y="463" width="14" height="14" fill="#ffbb66"/>
+<text x="253" y="476" font-size="16">Omitidas</text>
+<text x="45" y="514" font-size="14">Muestra dirigida de un mosaico. Incluye 15 referencias añadidas tras revisar predicciones.</text>
+<text x="45" y="538" font-size="14">2 dudosas excluidas. Revisión asistida; no representa exactitud en todo el lote.</text>
+</g></svg>

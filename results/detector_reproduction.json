@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "layer": "candidates",
+      "new_count": 3711,
+      "old_count": 3711,
+      "max_distance_m": 2.9103830456733704e-11,
+      "unique_matches": 3711,
+      "same_areas": true
+    },
+    {
+      "layer": "filtered",
+      "new_count": 3359,
+      "old_count": 3359,
+      "max_distance_m": 2.9103830456733704e-11,
+      "unique_matches": 3359,
+      "same_areas": true
+    }
+  ],
+  "scope": "Full supplied RGB mosaic and original boundary"
+}

@@ -1,0 +1,3 @@
+-r requirements.txt
+matplotlib>=3.7,<4
+# GDAL must match the installed native library; use the QGIS/OSGeo Python environment.
